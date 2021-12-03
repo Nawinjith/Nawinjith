@@ -29,12 +29,9 @@ Find me here:</br>
 ## GitHub Statistics
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Nawinjith&show_icons=true&theme=dark" />
-</a>
+</a> 
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Nawinjith&show_icons=true&theme=dark"/>
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nawinjith&show_icons=true&theme=dark" height="393"/>
 </a>
 <!--
 **Nawinjith/Nawinjith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
